@@ -24,9 +24,9 @@ English version :
 
 🛠️ Plugin Functionality:
 
-A player is randomly selected as the VIP at the first second of each round.
-The VIP has 120 HP.
-The VIP can only use a Glock and has 120 bullets in reserve.
-Time elapsed = Slay CT.
-VIP killed = Slay CT.
-Extraction zone reached = Slay T.
+- A player is randomly selected as the VIP at the first second of each round.
+- The VIP has 120 HP.
+- The VIP can only use a Glock and has 120 bullets in reserve.
+- Time elapsed = Slay CT.
+- VIP killed = Slay CT.
+- Extraction zone reached = Slay T.
