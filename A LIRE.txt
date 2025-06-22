@@ -1,4 +1,0 @@
-Dossier Addons à mettre à la racine du cstrike ainsi que les dossiers materials et models (le skin VIP est dedans)
-
-Pour information le plugin "vip donwload" force le téléchargement du skin lors de la connexion au serveur. 
-Il est donc indispensable à la bonne utilisation du VIP MOD.
