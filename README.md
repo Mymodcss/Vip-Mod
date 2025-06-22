@@ -7,7 +7,7 @@ VIP MOD FOR CSS (French & English)
 Pour information le plugin "vip_donwload" force le téléchargement du skin lors de la connexion au serveur. 
 Il est donc indispensable à la bonne utilisation du VIP MOD.
 
-Lien du skin VIP : https://gamebanana.com/mods/515681
+Lien du skin VIP pour simple visuel : https://gamebanana.com/mods/515681
 
 📌 Le plugin est basé sur les fonctions "vip_escapezone" et "vip_escapezone2" afin de détecter les zones d'extractions. Il convient donc d'utiliser les maps adéquates (vous en trouverez 3 disponible en téléchargement sur l'esapce GitHub)
 
