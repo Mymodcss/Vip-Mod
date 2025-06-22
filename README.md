@@ -1,4 +1,4 @@
-VIP MOD FOR CSS
+VIP MOD FOR CSS (French & English)
 
 📌 Dossier Addons à mettre à la racine du cstrike contenant les plugins vipmod.smx et vip_download.smx ainsi que le fichier download.txt contenant le chemin du skin ainsi que le skin chopper (hélicoptère) fréquemment utilisé sur les map AS_.
 
