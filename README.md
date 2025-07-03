@@ -22,6 +22,8 @@ Lien du skin VIP pour simple visuel : https://gamebanana.com/mods/515681
 
 English version : 
 
+The plugin relies on the "vip_escapezone" and "vip_escapezone2" functions to detect extraction zones. Therefore, it is recommended to use the appropriate maps (three of them are available for download on the GitHub space).
+
 🛠️ Plugin Functionality:
 
 - A player is randomly selected as the VIP at the first second of each round.
